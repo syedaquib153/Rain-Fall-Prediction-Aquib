@@ -6,7 +6,7 @@ R2-0.55
 
 
 # Xgboost Regression
-Accuracy - 89%
-R2-.89
+Accuracy - 95%
+R2-.95
 
 A best model was a Xgboost Regression with Accuracy of 89%.
